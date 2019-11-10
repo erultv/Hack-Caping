@@ -1,5 +1,5 @@
 clear
-figlet FORM CAPING
+figlet HACK CAPING
 echo "Isi Semua Form Dengan Benar";
 read -p "u=" trl;
 read -p "n=" n;
