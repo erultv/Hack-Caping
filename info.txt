@@ -1,0 +1,8 @@
+[#] >> Versi Script 1.0
+[#] >> Creator ErulTV
+
+Youtube: ErulTV
+Belajar Hack Via Termux Dan Video Lainnya
+
+Localhost: 127.0.0.1:8080;
+NetWorks: null;
